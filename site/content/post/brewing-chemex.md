@@ -1,7 +1,7 @@
 ---
-title: A beginners’ guide to brewing with Coffee
+title: "Coffee topic "
 date: 2017-01-04T15:04:10.000Z
-description: "Testing CMS features with Natalie "
+description: Why coffee is the best thing ever.
 image: /img/blog-chemex.jpg
 ---
 
