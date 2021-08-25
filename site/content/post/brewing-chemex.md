@@ -1,5 +1,5 @@
 ---
-title: "Coffee topic "
+title: "Testing Netlify "
 date: 2017-01-04T15:04:10.000Z
 description: Why coffee is the best thing ever.
 image: /img/blog-chemex.jpg
